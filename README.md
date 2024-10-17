@@ -1,25 +1,8 @@
-# Práctica 1.2: Primeros programas
+# Práctica 2.1: Setencias iterativas
 
 Apoyate en los siguientes recursos para realizar la práctica:
 
-[U1: Introducción al desarrollo de software](https://revilofe.github.io/section1/u01/)
-
-
-## Ejercicios. 
-Cada ejercicio en un archjivo diferente.
-
-   * [P1.2 - Ejercicios básicos](https://revilofe.github.io/section1/u01/practica/PROG-U1.-Practica002/) *(cada ejercicio en un fichero: ej01.py al ej27.py)*
-   * [P1.2b - Ejercicios básicos EXTRA](info/p1.2b_ejercicios_basicos_EXTRA.md)
-   * [P1.2c - Soluciona estos problemas](info/p1.2c_soluciona_estos_problemas.md)
-   * [P1.2d - Construye funciones](info/p1.2d_construye_funciones.md)
-   * [P1.2e - Primeras pruebas unitarias](info/p1.2e_pruebas_unitarias.md)
-
-## Entrega
-1. Agregar en la carpeta `src` los programas (p1.2, p1.2b, p1.2c, p1.2d)
-2. Las pruebas unitarias en la carpeta `tests` (p1.2e)
-3. Mas abajo tienes un ejemplo de como entregar la práctica.
-4. Recuerda que debes subir el enlace al repositorio en la tarea correspondiente del aula virtual.
-
+[U2: 1. Sentencias iterativas](https://revilofe.github.io/section1/u02/practica/PROG-U2.-Practica001/)
 
 ---
 
