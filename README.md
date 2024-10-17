@@ -1,4 +1,4 @@
-# Práctica 2.1: Setencias condicionales
+# Práctica 2.1: Sentencias condicionales
 
 Apoyate en los siguientes recursos para realizar la práctica:
 
