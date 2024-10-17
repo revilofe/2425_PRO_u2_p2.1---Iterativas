@@ -1,8 +1,8 @@
-# Práctica 2.1: Setencias iterativas
+# Práctica 2.1: Setencias condicionales
 
 Apoyate en los siguientes recursos para realizar la práctica:
 
-[U2: 1. Sentencias iterativas](https://revilofe.github.io/section1/u02/practica/PROG-U2.-Practica001/)
+[U2: 1. Sentencias condicionales](https://revilofe.github.io/section1/u02/practica/PROG-U2.-Practica001/)
 
 ---
 
